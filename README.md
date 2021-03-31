@@ -11,7 +11,7 @@
 
 - Learning Laravel
 - Pursuing bachelor of computer science ( 2nd year)
-- Preparing for AWS solutions architecht cert.
+- Preparing for AWS solutions architect cert.
 
 #### Tech
 
