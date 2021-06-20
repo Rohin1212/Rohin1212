@@ -9,7 +9,6 @@
 
 ##### What am I doing right now?
 
-- Learning Laravel
 - Pursuing bachelor of computer science ( 2nd year)
 - Preparing for AWS solutions architect cert.
 
