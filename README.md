@@ -10,7 +10,7 @@
 ##### What am I doing right now?
 
 - Pursuing bachelor of computer science ( 2nd year)
-- Preparing for AWS solutions architect cert.
+- Working on my next project DigiShelf.
 
 #### Tech
 
