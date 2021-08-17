@@ -10,7 +10,7 @@
 ##### What am I doing right now?
 
 - Pursuing bachelor of computer science ( 2nd year)
-- Working on my next project DigiShelf.
+- Working on my next project <a href="https://github.com/Rohin1212/DigiShelf">DigiShelf</a>.
 
 #### Tech
 
