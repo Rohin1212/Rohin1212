@@ -32,6 +32,10 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+### Certifications
+- AWS Certified Solutions Architect Associate
+- AWS Certified Cloud Practitioner 
+
 #### BIO
 
 - 📫 Ping me: <a href="https://github.com/Rohin1212">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</a>
