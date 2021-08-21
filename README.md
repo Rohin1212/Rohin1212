@@ -3,7 +3,7 @@
 #### I'm currently a computer science student at Swinburne Uni of Tech, a full stack web developer. I am a lifelong learner that loves learning and working on new tech.
 
 <p align="center">
-	<a href="https://rohinchopra.com">My Website<a/>
+	<a href="https://rohindev.com">My Website<a/>
 </p>
 <hr/>
 
