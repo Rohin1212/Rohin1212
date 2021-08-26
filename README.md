@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-#### I'm currently a computer science student at Swinburne Uni of Tech, a full stack web developer. I am a lifelong learner that loves learning and working on new tech.
+#### Full Stack Software Engineer, currently a CS student at Swinburne. I am a lifelong learner that loves learning and working on new tech.
 
 <p align="center">
 	<a href="https://rohindev.com">My Website<a/>
