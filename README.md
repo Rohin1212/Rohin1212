@@ -1,15 +1,15 @@
 ### Howdy 👋
 
-#### Full Stack Software Engineer, currently a CS student at Swinburne. I am a lifelong learner that loves learning and working on new tech.
+#### Full Stack Software Engineer, currently working ass a Full Stack Software Engineer. I am a lifelong learner that loves learning and working on new tech.
 
 <p align="center">
-	<a href="https://rohindev.com">My Website<a/>
+	<a href="https://rohinchopra.com">My Website<a/>
 </p>
 <hr/>
 
 ##### What am I doing right now?
 
-- Pursuing bachelor of computer science ( 2nd year)
+- Working towards AWS Developer Associate Certification
 - Working on my nodejs espncricinfo wrapper npm package <a href="https://github.com/Rohin1212/nodejs-espncricinfo">nodejs-espncricinfo</a>.
 
 #### Tech
