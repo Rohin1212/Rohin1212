@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-#### Full Stack Software Engineer, currently working ass a Full Stack Software Engineer. I am a lifelong learner that loves learning and working on new tech.
+#### Full Stack Software Engineer, currently working as a Full Stack Software Engineer. I am a lifelong learner that loves learning and working on new tech.
 
 <p align="center">
 	<a href="https://rohinchopra.com">My Website<a/>
