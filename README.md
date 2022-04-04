@@ -8,8 +8,6 @@
 <hr/>
 
 ##### What am I doing right now?
-
-- Working towards AWS Developer Associate Certification
 - Working on my nodejs espncricinfo wrapper npm package <a href="https://github.com/Rohin1212/nodejs-espncricinfo">nodejs-espncricinfo</a>.
 
 #### Tech
