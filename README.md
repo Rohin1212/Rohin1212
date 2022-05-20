@@ -34,10 +34,11 @@
 - AWS Certified Solutions Architect Associate
 - AWS Certified Developer Associate
 - AWS Certified Cloud Practitioner 
- <img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-cloud-practitioner.png?raw=true" width="100" height="100">
- <img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-solutions-architect-associate.png?raw=true" width="100" height="100">
- <img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-developer-associate.png?raw=true" width="100" height="100">
-
+<div style="display:flex"> 
+	<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-cloud-practitioner.png?raw=true" width="100" height="100">
+ 	<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-solutions-architect-associate.png?raw=true" width="100" height="100">
+ 	<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-developer-associate.png?raw=true" width="100" height="100">
+</div>
 
 #### BIO
 
