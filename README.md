@@ -32,9 +32,18 @@
 
 ### Certifications
 <div style="display:flex"> 
-	<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-cloud-practitioner.png?raw=true" width="100" height="100" alt="AWS Certified Cloud Practitioner">
- 	<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-solutions-architect-associate.png?raw=true" width="100" height="100" alt="AWS Certified Solutions Architect Associate">
- 	<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-developer-associate.png?raw=true" width="100" height="100" alt="AWS Certified Developer Associate ">
+	<a href="https://www.credly.com/badges/0de86e9f-7c45-4742-9e19-a2ea96146e8b/public_url">
+		<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-cloud-practitioner.png?raw=true" width="100" height="100" alt="AWS
+		Certified Cloud Practitioner">
+	</a>
+	<a href="https://www.credly.com/badges/2ec87625-d619-4406-9ba9-d0e9af970762/public_url">
+ 		<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-solutions-architect-associate.png?raw=true" width="100"
+		     height="100" alt="AWS Certified Solutions Architect Associate">
+	</a>
+	<a href="https://www.credly.com/badges/63f3393b-c671-41a1-a82c-37dc922cded4/public_url">
+ 		<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-developer-associate.png?raw=true" width="100" height="100"
+		     alt="AWS Certified Developer Associate ">
+	</a>
 </div>
 
 #### BIO
