@@ -8,7 +8,7 @@
 <hr/>
 
 ##### What am I doing right now?
-- Working on my nodejs espncricinfo wrapper npm package <a href="https://github.com/Rohin1212/nodejs-espncricinfo">nodejs-espncricinfo</a>.
+- Studying for the AWS Certified SysOps Administrator - Associate certification 
 
 #### Tech
 ![Typescript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
