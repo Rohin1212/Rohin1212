@@ -44,6 +44,10 @@
  		<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-developer-associate.png?raw=true" width="100" height="100"
 		     alt="AWS Certified Developer Associate ">
 	</a>
+	<a href="https://www.credly.com/badges/63f3393b-c671-41a1-a82c-37dc922cded4/public_url" target="_blank" rel="noopener noreferrer">
+ 		<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-sysops-administrator-associate.png?raw=true" width="100" height="100"
+		     alt="AWS SysOps Administratior Associate ">
+	</a>
 </div>
 
 #### BIO
